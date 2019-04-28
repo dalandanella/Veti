@@ -1,0 +1,69 @@
+body {
+	color: white;
+	background: black;
+	text-align: center;
+}
+.menu {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 10px;
+	padding: 20px;
+	background:#8B0000;
+	list-style: none;
+	border-radius: 25px;
+	font-family: Impact;
+}
+.menu a {
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.menu a:hover {
+	background: #ddd;
+	color: black;
+}
+ul {
+	list-style:none;
+}
+a {
+	font-size: 18px;
+}
+.vetilogs{
+	color:#FFDEAD;
+	font-size: 100px;
+	padding:0px;
+}
+}
+.footer{
+	background: #8B0000;
+	padding: 20px;
+	border-radius: 25px;
+}
+.links {
+	padding:30px;
+	background:#CD853F;
+	border-radius: 25px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

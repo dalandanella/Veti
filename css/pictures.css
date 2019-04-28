@@ -1,0 +1,71 @@
+body {
+	color: white;
+	background: black;
+	text-align: center;
+}
+.menu {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 10px;
+	padding: 20px;
+	background:#8B0000;
+	list-style: none;
+	border-radius: 25px;
+}
+.menu a {
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.menu a:hover {
+	background: #ddd;
+	color: black;
+}
+#letter { 
+	font-size:22px;
+	margin-left: 30px;
+	margin-right: 30px;
+	padding: 20px;
+}
+.letter {
+	padding:2px;
+	background:#8B4513;
+}
+.pictures {
+	padding:30px;
+	background: #8B4513;
+	border-radius: 25px;
+}
+.footer{
+	background: #8B0000;
+	padding: 20px;
+	border-radius: 25px;
+}
+.vetilogs{
+	color:#FFDEAD;
+	font-size: 100px;
+	padding:0px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
